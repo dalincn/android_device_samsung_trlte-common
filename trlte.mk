@@ -103,6 +103,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+    libstlport \
     libxml2 \
     camera.apq8084 \
     Snap
